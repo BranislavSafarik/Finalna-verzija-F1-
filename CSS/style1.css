@@ -1,0 +1,30 @@
+h1 {
+ color: red;
+ text-align: center;
+ font-size: 50px;
+ margin: auto;
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+li {
+    text-align: center;
+
+}
+body {
+    background-color:#ffc79d;
+    text-align: center;
+
+}
+p {
+    color: blueviolet;
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+figcaption {
+    color: blueviolet;
+}
